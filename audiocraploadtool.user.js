@@ -2,7 +2,7 @@
 // @name       Audio Crapload Tool
 // @author       Dan Misener
 // @namespace  http://misener.org
-// @version    0.2
+// @version    0.3
 // @description  Have some fun with the Audio Upload Tool.
 // @include     https://cms.nm.cbc.ca/audiouploadtool/*
 // @match       https://cms.nm.cbc.ca/audiouploadtool/*
@@ -10,4 +10,4 @@
 // ==/UserScript==
  
 document.getElementsByTagName('h1')[0].innerHTML = "Audio Crapload Tool";
-document.getElementsByTagName('img')[0].src = "http://emojipedia.org/wp-content/uploads/2013/08/160x160x91-pile-of-poo.png.pagespeed.ic.N6iNfrs6Op.jpg";
+document.getElementsByTagName('img')[0].src = "http://emojipedia-us.s3.amazonaws.com/cache/de/ca/decadd7edb6b1014ca0cb7a1afcb8ea3.png";
